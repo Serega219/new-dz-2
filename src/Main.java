@@ -4,6 +4,5 @@ public class Main {
        int b = 2;
        int c = a/b;
        System.out.println(c);
-sr
     }
 }
